@@ -7,7 +7,7 @@
 
 Low‑cost, reproducible, open‑source wire phantom for automated quality control (QC) of ultrasound scanners: spatial resolution (FWHM) and signal‑to‑noise ratio (SNR).
 
-![SPUTNIK phantom](./docs/sputnik_header.png) <!-- добавите фото фантома -->
+<!-- ![SPUTNIK phantom](./img/sputnik_header.png)  добавите фото фантома -->
 
 ## 🚀 Quick links
 
